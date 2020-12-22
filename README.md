@@ -3,7 +3,7 @@ This our project is about forecast.A variety of widgets with information about t
 
 
 Team members: Adilet Zhakypov, Khanaiym Belekova
-![alt text](screenshots/2020-12-21.png)
+![alt text](screenshots/2020-12-00.png)
 
 
 
