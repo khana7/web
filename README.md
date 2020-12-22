@@ -6,6 +6,9 @@ Team members: Adilet Zhakypov, Khanaiym Belekova
 
 Youtube Link:
 [!YouTube link:](https://youtu.be/C_8oiDHklGU)
+
+Video Feedback:
+https://drive.google.com/file/d/1I2AlAUIJyFm4mb2nbHDo3uwmoRSwj-Ey/view?usp=sharing
 ![alt text](screenshots/2020-12-00.png)
 
 
