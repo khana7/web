@@ -5,7 +5,7 @@ This our project is about forecast.A variety of widgets with information about t
 Team members: Adilet Zhakypov, Khanaiym Belekova
 
 Youtube Link:
-[!YouTube link:](https://youtu.be/C_8oiDHklGU)
+https://youtu.be/C_8oiDHklGU
 
 Video Feedback:
 https://drive.google.com/file/d/1I2AlAUIJyFm4mb2nbHDo3uwmoRSwj-Ey/view?usp=sharing
